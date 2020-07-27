@@ -1,0 +1,24 @@
+img, svg {
+  height: 40px;
+}
+
+.post-preview > a > .post-title {
+  font-size: 38px;
+}
+
+.fa-stack.fa-lg {
+  /*color: blue;*/
+}
+
+.fa.fa-facebook.fa-stack-1x.fa-inverse {
+}
+
+.fa.fa-circle.fa-stack-2x {
+}
+
+img, svg {
+}
+
+.img-fluid, .img-thumbnail {
+}
+
